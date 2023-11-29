@@ -1,2 +1,2 @@
 # PythonRepo
-Test için açılmıştır.
+Test için açılmıştır
